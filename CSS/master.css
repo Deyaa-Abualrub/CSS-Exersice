@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+tr td{
+    border: 1px solid ;
+    padding: 8px 5px;
+    border-radius: 6px;
+    margin: 5px;
+    display: inline-block;
+    box-shadow: 2px 2px 5px;
+}
